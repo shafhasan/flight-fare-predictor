@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
+
+body {
+    font-family: Rubik !important;
+    background-color: #e1f4f3;
+    text-align: center;
+}
+
+.navbar {
+    background-color: #333333;
+    margin-bottom: 50px;
+}
+
+.card {
+    padding: 20px;
+}
+
+.card-title {
+    color: #ff4500;
+}
+
+.row {
+    padding: 20px;
+}
+
+.btn {
+    margin-top: 20px;
+    padding: 10px;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+}
